@@ -1,0 +1,7 @@
+Variables: son cajas o pen drives que nos guardan informacion , que despues podemos usar o recuperar. A esta info que guardamos le podemos asinar nombre y valores. 
+Strings: Son caracteres, hilos de las letras que conocemos y las debemos poner entre ""
+Funciones: Agrupan simbolos, normas, reglas que guarda para que luego las podamos usar. Nos sirven para no tener que repetirnos.
+Argumentos: Son aquellos que aparecen en las funciones entre parentesis. Son como las variables o cajas que ponemos cuando hacemos una funcion. 
+Return: le pedimos a las funciones, a esa agrupacion de simbolos, normas y reglas que nos devuelva algo especicado, algo que le pedimos. 
+If: es un si condicional. Le decimos si pasa esto entonces pasa esto otro tambien. Ej. Si es mayor de 65 años esta jubilado.
+Valores booleanos: Es un concepto que alimenta el codigo y el nucleo de las computadoras. El codigo se llama binario (001 1100) Tiene dos opciones verdadero o falso.
