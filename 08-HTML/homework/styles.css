@@ -1,0 +1,17 @@
+h1{
+    color:coral;
+}
+ img{
+     width: 400px;
+ }
+ #thirdDiv{
+     height: 600px;
+     width: 500px;
+     background-color: rgb(209, 0, 181) ;
+     padding: 50px;
+     border: 2px ridge black
+ }
+ #spandID{
+     font-size: 18px;
+     margin: 50px; 
+ }
