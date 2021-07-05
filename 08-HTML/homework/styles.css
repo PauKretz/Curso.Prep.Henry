@@ -1,5 +1,11 @@
-h1{
-    color:coral;
+ body {
+ background-image: url("https://i.pinimg.com/originals/33/9e/99/339e99727a249d73d580581a40bfe2e0.jpg") ;
+ background-size: cover;
+ background-position: center center; 
+ background-attachment: fixed;
+  }
+   h1{
+    color:rgb(80, 255, 240);
 }
  img{
      width: 400px;
@@ -7,7 +13,7 @@ h1{
  #thirdDiv{
      height: 600px;
      width: 500px;
-     background-color: rgb(209, 0, 181) ;
+     background-color: rgb(59, 206, 243) ;
      padding: 50px;
      border: 2px ridge black
  }
@@ -15,3 +21,17 @@ h1{
      font-size: 18px;
      margin: 50px; 
  }
+ .divClass {
+     margin: 0;
+     padding: 0;
+     text-align: center;
+    top: 50%;
+     left: 50%;
+ }
+  .thirdDiv {
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    left: 50% 
+ }
+ 
