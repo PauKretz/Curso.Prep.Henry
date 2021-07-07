@@ -15,8 +15,17 @@
      width: 500px;
      background-color: rgb(59, 206, 243) ;
      padding: 50px;
-     border: 2px ridge black
- }
+     border: 2px ridge black;
+     margin-right: auto;
+     margin-left: auto;
+     
+   }
+   #thirdDiv img{
+     position: relative;
+     top: 0;
+     left: 30px;
+      
+   }
  #spandID{
      font-size: 18px;
      margin: 50px; 
@@ -28,10 +37,5 @@
     top: 50%;
      left: 50%;
  }
-  .thirdDiv {
-    margin: 0;
-    padding: 0;
-    top: 50%;
-    left: 50% 
- }
+  
  
